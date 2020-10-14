@@ -1,0 +1,40 @@
+ There has been an increase in demand for data scientists in India as organisations have been adopting new technologies to analyse the data extensively to draw meaningful insights. Data science has emerged as an attractive career option for freshers as well as experienced professionals. The demand for data engineers is very high in sectors like information technology, telecom, manufacturing, finance and insurance, retail and many more. 
+
+
+If you wish to make a career in the high demand career of data science in India, here is all important information that you should have:
+
+
+Data Science courses and certifications
+Various Indian academic institutions offer data analytics/data science courses in the country. The field is data science is often hidden as a specialization in other postgraduate degrees. Here are some of the Indian institutes and universities that offer courses in data science fields:
+
+
+Indian Institute of Information Technology and Management – Kerala
+Indian Institute of Science, Bangalore
+National Institute of Securities Markets (NISM) 
+IIM Calcutta 
+IIT Madras 
+IIT Hyderabad 
+IIT Kharagpur
+IIIT Delhi 
+Jawaharlal Nehru University (JNU) 
+Ahmedabad University 
+Academy of Maritime Education and Training 
+Bharathiar University Coimbatore 
+
+
+
+Online certification in data science
+
+The career of data science engineer is very lucrative. Professionals who want to take their career to the next level can enrol to various online certification programs in data science. Recruiters are always in search of skilled people. But the skills may vary across businesses and industries. Data science certification can help you gain an edge over others. 
+
+
+Data Scientist Salary
+A recent study 'Analytics India Salary Study 2020' by Analytics India Magazine and Jigsaw Academy the salaries in the mid-senior and senior-level have registered the highest median figure over the last 4 years. The study revealed that the past year has been an effective growth year for the Data Science and Analytics domain, with an increase in the median salary in the analytics function and a corresponding increase in salaries and the proportion of professionals in the upper experience cadre. In terms of salary trends across cities, Mumbai emerges as the destination for highest salaries for analytics employees at Rs 15.6 lakhs per annum as median salary, followed by Bengaluru at Rs 14.7 lakhs. The study has also revealed that the median salary of Rs 14.4 lakhs, professionals commanded a salary 14.3% greater than that received the previous year, and the highest median salary commanded since this salary study began in 2015.
+
+
+Data Science: Future growth
+
+The companies across various sectors are using data analysing tools to draw meaningful insights for their growth. In the coming future, the demand for data science professionals will continue to grow. Data science is still evolving and has abundant opportunities to grow over the next decade or so. 
+
+
+          
